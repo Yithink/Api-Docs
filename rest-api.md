@@ -1,4 +1,4 @@
-# Public Rest API for Piexgo 
+# Public Rest API for Piexgo (test)
 
 # General API Information
 * The  base prod-endpoint is: **https://api.piexgo.com**
